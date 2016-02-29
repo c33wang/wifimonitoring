@@ -47,4 +47,4 @@ def get_restaurant_with_id(id):
 
 
 # Run the server and listen to all interface on port 8080
-run(host='192.168.1.182', port=8080, reloader=True)
+run(host='0.0.0.0', port=8080, reloader=True)
